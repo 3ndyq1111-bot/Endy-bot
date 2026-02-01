@@ -5,8 +5,8 @@ import { fileURLToPath } from 'url';
 
 global.botnumber = '';
 global.confirmCode = '';
-global.nomebot = 'nexon-bot';
-global.packname = 'nexon-bot';
+global.nomebot = 'endy-bot';
+global.packname = 'endy-bot';
 global.author = 'Endy';
 global.vs = '1.0';
 global.collab = 'Football';
@@ -18,8 +18,8 @@ global.owner = [
   ['6285148177865', 'endy', true],
   ['212644391140', 'mia', true], 
   ['212642043720', 'cristian', true],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
+  ['15627960361', 'endyq', true],
+  ['393882438360', 'pasquale', true],
   ['xxxxxxxxxx'],
 ];
 global.mods = ['xxxxxxxxxx'];
